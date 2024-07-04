@@ -100,21 +100,4 @@ printer = PrettyPrinter()
 - **convert**: Converts an amount from one currency to another using the exchange rate.
 - **main**: The main function that provides the command-line interface for the user.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
-
-## Author
-
-- **Your Name** - [yourusername](https://github.com/yourusername)
-
-Feel free to open an issue if you have any questions or suggestions.
